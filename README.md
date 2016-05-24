@@ -130,25 +130,19 @@
 
 > 一本非常有影响力的书，可以从中学到一些业界顶级人士的经验，了解他们如何思考并工作。 - Jahanzeb Farooq
 
-
-
 #### 《[Unix编程艺术](http://www.amazon.cn/gp/product/B004GLIX6W/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B004GLIX6W&amp;linkCode=as2&amp;tag=vastwork-23)》
 
 推荐语：
 
 > 不管你使用什么操作系统，这本书都很有用。 - J.F. Sebastian
 
-&nbsp;
-
-**28. 《Practices of an Agile Developer / [高效程序员的45个习惯：敏捷开发修炼之道](http://www.amazon.cn/gp/product/B0033WSFAO/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;tag=vastwork-23&amp;linkCode=as2&amp;camp=536&amp;creative=3200&amp;creativeASIN=B0033WSFAO)》**
+#### 《Practices of an Agile Developer / [高效程序员的45个习惯：敏捷开发修炼之道](http://www.amazon.cn/gp/product/B0033WSFAO/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;tag=vastwork-23&amp;linkCode=as2&amp;camp=536&amp;creative=3200&amp;creativeASIN=B0033WSFAO)》
 
 推荐语：
 
 > 45个习惯，分为7个方面：工作态度、学习、软件交付、反馈、编码、调试和协作。
 > 
 > 每一个具体的习惯里，一开始提出一个谬论，然后展开分析，之后有正队性地提出正确的做法，并设身处地地讲出了正确做法给你个人的“切身感受”，最后列出几条注意事项，帮助你修正自己的做法（“平衡的艺术”）。
-
-&nbsp;
 
 #### 《Test-Driven Development by Example. / [测试驱动开发](http://www.amazon.cn/gp/product/B00EYV9KLG/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00EYV9KLG&amp;linkCode=as2&amp;tag=vastwork-23)》
 
@@ -158,7 +152,29 @@
 > 
 > 我不关心你的代码有多好或优雅。如果你没有测试，你或许就如同没有编写代码。这本书得到的推荐数应该更高些。人们讨论编写用户喜欢的软件，或既设计出色并健壮的高效代码，但如果你的软件有一堆bug，谈论那些东西毫无意义。– Adam Gent
 
+## C/C++
 
+#### 《[C程序设计语言](http://www.amazon.cn/gp/product/B0011425T8/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B0011425T8&amp;linkCode=as2&amp;tag=vastwork-23)》 SO 网友推荐数：774
+
+推荐语：
+
+> 这本书简洁易读，会教给你三件事：C 编程语言；如何像程序员一样思考；底层计算模型。（这对理解“底层”非常重要）—— Nathan
+
+#### 《[Effective C++](http://www.amazon.cn/gp/product/B004G72P24/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B004G72P24&amp;linkCode=as2&amp;tag=vastwork-23)》和《[More Effective C++](http://www.amazon.cn/gp/product/B004IP8BD6/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;tag=vastwork-23&amp;linkCode=as2&amp;camp=536&amp;creative=3200&amp;creativeASIN=B004IP8BD6)》SO 推荐数：297
+
+推荐语：
+
+> 在我职业生涯早期，Scott Meyer的《Effective C++》和后续的《More Effective C++》都对我的编程能力有着直接影响。正如当时的一位朋友所说，这些书缩短你培养编程技能的过程，而其他人可能要花费数年。
+> 
+> 去年对我影响最大的一本书是《[大教堂与市集](http://www.amazon.cn/gp/product/1607962284/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;tag=vastwork-23&amp;linkCode=as2&amp;camp=536&amp;creative=3200&amp;creativeASIN=1607962284)》，该书教会我很有关开源开发过程如何运作，和如何处理我代码中的Bug。 - John Channing
+
+## Java
+
+#### 《[Effective Java](http://www.amazon.cn/gp/product/B001PTGR52/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B001PTGR52&amp;linkCode=as2&amp;tag=vastwork-23) 中文版》
+
+推荐语：
+
+> 此书第二版教你如何编写漂亮并高效的代码，虽然这是一本Java书，但其中有很多跨语言的理念。 - Marcio Aguiar
 
 **后语**
 
