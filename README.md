@@ -1,6 +1,6 @@
 # 经典编程书籍大全
 
-《[国外程序员推荐：每个程序员都应读的书](http://blog.jobbole.com/5886/)》是大约五年前伯乐在线摘编自 StackOverflow 上的一个[问答贴](http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read?tab=votes#tab-top)。基于这个列表，伯乐在线计划发起整理一个经典编程书籍列表。本列表会保存更新。
+《[国外程序员推荐：每个程序员都应读的书](http://blog.jobbole.com/5886/)》是大约五年前伯乐在线摘编自 StackOverflow 上的一个[问答贴](http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read?tab=votes#tab-top)。基于这个列表，伯乐在线计划发起整理一个经典编程书籍列表。本列表会经常更新。
 
 ## 目录
 * Java
