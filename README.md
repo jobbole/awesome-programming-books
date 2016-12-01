@@ -213,6 +213,8 @@
 *   《深入浅出SQL（中文版）》
 *   《[MySQL技术内幕 : InnoDB存储引擎（第2版）](https://www.amazon.cn/gp/product/B00ETOV48K/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00ETOV48K&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[深入浅出MySQL : 数据库开发、优化与管理维护](https://www.amazon.cn/gp/product/B00KR87J8G/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00KR87J8G&amp;linkCode=as2&amp;tag=vastwork-23)》
+*   《[计算机科学丛书:数据库系统概念](https://www.amazon.cn/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%9B%E4%B9%A6-%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E6%A6%82%E5%BF%B5-%E8%A5%BF%E5%B0%94%E4%BC%AF%E6%B2%99%E8%8C%A8/dp/B007KYSEZC/ref=sr_1_1?s=books&ie=UTF8&qid=1480573487&sr=1-1)》
+
 
 ## 测试
 
