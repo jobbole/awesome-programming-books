@@ -151,7 +151,7 @@
 
 *   《[Android编程权威指南（第2版）](https://www.amazon.cn/gp/product/B01FSXCBOQ/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B01FSXCBOQ&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[移动应用UI设计模式（第2版）](https://www.amazon.cn/gp/product/B00SFZGX08/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00SFZGX08&amp;linkCode=as2&amp;tag=vastwork-23)》
-*   《[第一行代码:Android(第2版)](https://www.amazon.cn/%E7%AC%AC%E4%B8%80%E8%A1%8C%E4%BB%A3%E7%A0%81-Android-%E9%83%AD%E9%9C%96/dp/B01MSR5D04/ref=sr_1_1?s=books&ie=UTF8&qid=1481097811&sr=1-1&keywords=%E7%AC%AC%E4%B8%80%E8%A1%8C%E4%BB%A3%E7%A0%81)》
+*   《[第一行代码:Android(第2版)](https://www.amazon.cn/%E7%AC%AC%E4%B8%80%E8%A1%8C%E4%BB%A3%E7%A0%81-Android-%E9%83%AD%E9%9C%96/dp/B01MSR5D04/ref=sr_1_1?s=books&ie=UTF8&qid=1481097811&sr=1-1&keywords=%E7%AC%AC%E4%B8%80%E8%A1%8C%E4%BB%A3%E7%A0%81)》
 ## iOS
 
 *   《[iOS编程实战](https://www.amazon.cn/gp/product/B00NKZCM3U/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00NKZCM3U&amp;linkCode=as2&amp;tag=vastwork-23)》
