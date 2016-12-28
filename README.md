@@ -73,7 +73,8 @@
 *   《[编程大师访谈录](https://www.amazon.cn/gp/product/B00ALPRKMA/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00ALPRKMA&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[编程人生 : 15位软件先驱访谈录](https://www.amazon.cn/gp/product/B00QA7GA2Y/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00QA7GA2Y&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[奇思妙想 : 15位计算机天才及其重大发现](https://www.amazon.cn/gp/product/B007ED88CI/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B007ED88CI&amp;linkCode=as2&amp;tag=vastwork-23)》
-*   《[图灵和ACM图灵奖](https://www.amazon.cn/gp/product/B008G80O9K/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B008G80O9K&amp;linkCode=as2&amp;tag=vastwork-23)》
+*   《[图灵和ACM图灵奖](https://www.amazon.cn/gp/product/B008G80O9K/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B008G80O9K&amp;linkCode=as2&amp;tag=vastwork-23)》
+*   《[DOOM启世录](https://www.amazon.cn/DOOM%E5%90%AF%E4%B8%96%E5%BD%95-%E5%A4%A7%E5%8D%AB%C2%B7%E5%BA%93%E4%BB%80%E7%BA%B3/dp/B016IW61WE/ref=sr_1_1?s=books&ie=UTF8&qid=1482894949&sr=1-1&keywords=doom+%E5%90%AF%E7%A4%BA%E5%BD%95)》
 
 ## 架构/性能
 
