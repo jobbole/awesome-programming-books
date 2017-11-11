@@ -108,6 +108,7 @@
 *   《[CSS 设计指南（第3版）](https://www.amazon.cn/gp/product/B00M2DKZ1W/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00M2DKZ1W&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[CSS 权威指南（第3版）](https://www.amazon.cn/gp/product/B0011F5SIC/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B0011F5SIC&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[深入浅出 HTML 与 CSS](https://www.amazon.cn/gp/product/B01LXL42O5/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B01LXL42O5&amp;linkCode=as2&amp;tag=vastwork-23)》
+*   《[深入理解JavaScript](https://www.amazon.cn/深入理解JavaScript-罗彻麦尔/dp/B019WODCSQ)》
 
 ## Java开发
 
