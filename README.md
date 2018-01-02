@@ -25,6 +25,7 @@
 
 ## 编程通用
 
+*   《[设计原本](https://www.amazon.cn/dp/B00CD1EWMG/ref=sr_1_1?ie=UTF8&qid=1514903810&sr=8-1)》
 *   《[编程原本](https://www.amazon.cn/gp/product/B006P7V73G/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B006P7V73G&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[代码大全](https://www.amazon.cn/gp/product/B0061XKRXA/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B0061XKRXA&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[UNIX编程艺术](https://www.amazon.cn/gp/product/B008Z1IEQ8/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B008Z1IEQ8&amp;linkCode=as2&amp;tag=vastwork-23)》
