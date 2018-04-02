@@ -204,6 +204,11 @@
 *   《[数据挖掘：概念与技术（第3版）](https://www.amazon.cn/gp/product/B007NR0T4A/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B007NR0T4A&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[数据挖掘：实用机器学习工具与技术（原书第3版）](https://www.amazon.cn/gp/product/B00K5I91WK/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00K5I91WK&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[大数据：互联网大规模数据挖掘与分布式处理（第2版）](https://www.amazon.cn/gp/product/B011I34CGA/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B011I34CGA&amp;linkCode=as2&amp;tag=vastwork-23)》
+*   《[深度学习(deep learning)](https://www.amazon.cn/dp/B073LWHBBY/ref=sr_1_1?s=books&ie=UTF8&qid=1522664936&sr=1-1&keywords=B073LWHBBY)》
+*   《[Reinforcement Learning:An Introduction](https://drive.google.com/file/d/1xeUDVGWGUUv1-ccUMAZHJLej2C7aAFWY/view)》
+
+
+
 
 ## 数据库
 
@@ -251,3 +256,4 @@
 *   《[黑客与画家 : 来自计算机时代的高见](https://www.amazon.cn/gp/product/B00G1ZT2C0/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00G1ZT2C0&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[软件随想录（卷1）](https://www.amazon.cn/gp/product/B00WDTQU8M/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00WDTQU8M&amp;linkCode=as2&amp;tag=vastwork-23)》《[软件随想录（卷2）](https://www.amazon.cn/gp/product/B00WFT32FY/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00WFT32FY&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[如何把事情做到最好：改变全球9800万人的人生指导书](https://www.amazon.cn/gp/product/B00ICWNKT6/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00ICWNKT6&amp;linkCode=as2&amp;tag=vastwork-23)》
+*   《[哥德尔、艾舍尔、巴赫:集异璧之大成](https://www.amazon.cn/dp/B00L1VVUTC/ref=sr_1_2?s=books&ie=UTF8&qid=1522664658&sr=1-2&keywords=9787100013239)》
