@@ -96,11 +96,14 @@
 *   《[JavaScript 忍者秘籍](https://www.amazon.cn/gp/product/B016DWSEWO/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B016DWSEWO&amp;linkCode=as2&amp;tag=vastwork-23)》（感谢[@joker-danta](https://github.com/jobbole/awesome-programming-books/issues?q=is%3Aissue+is%3Aopen+author%3Ajoker-danta) 补充推荐）
 *   《[编写可维护的 JavaScript](https://www.amazon.cn/gp/product/B00BQ7RMW0/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00BQ7RMW0&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[你不知道的 JavaScript（上）](https://www.amazon.cn/gp/product/B00W34DZ8K/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00W34DZ8K&amp;linkCode=as2&amp;tag=vastwork-23)》
+*   《[你不知道的 JavaScript（中）](https://www.amazon.cn/gp/product/B01LMYXGAI/ref=pd_sim_14_1?ie=UTF8&psc=1&refRID=4JRMK10EFJQHDAG8MCZF)》
 *   《[JavaScript 权威指南（第6版）](https://www.amazon.cn/gp/product/B007VISQ1Y/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B007VISQ1Y&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[JavaScript 语言精粹（修订版）](https://www.amazon.cn/gp/product/B0097CON2S/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B0097CON2S&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[JavaScript DOM编程艺术 （第2版）](https://www.amazon.cn/gp/product/B004VJM5KE/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B004VJM5KE&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[JavaScript 高级程序设计（第3版）](https://www.amazon.cn/gp/product/B007OQQVMY/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B007OQQVMY&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[JavaScript 异步编程：设计快速响应的网络应用](https://www.amazon.cn/gp/product/B00JVLEYY2/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00JVLEYY2&amp;linkCode=as2&amp;tag=vastwork-23)》
+*   《[JavaScript设计模式与开发实践](https://www.amazon.cn/gp/product/B00XJ2AU3S/ref=pd_bxgy_14_img_3?ie=UTF8&psc=1&refRID=4JRMK10EFJQHDAG8MCZF)》
+*   《[JavaScript框架设计（第2版）](https://www.amazon.cn/gp/product/B07574N7Y2/ref=pd_sim_14_7?ie=UTF8&psc=1&refRID=W48SJ7HFN2TXAQ1VAA8K)》
 *   《[Effective JavaScript：编写高质量JavaScript代码的68个有效方法](https://www.amazon.cn/gp/product/B00GMXI1QY/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00GMXI1QY&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[HTML5 权威指南](https://www.amazon.cn/gp/product/B00H706BIG/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00H706BIG&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[HTML5 秘籍（第2版）](https://www.amazon.cn/gp/product/B015316VJY/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B015316VJY&amp;linkCode=as2&amp;tag=vastwork-23)》
@@ -109,6 +112,8 @@
 *   《[CSS 设计指南（第3版）](https://www.amazon.cn/gp/product/B00M2DKZ1W/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00M2DKZ1W&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[CSS 权威指南（第3版）](https://www.amazon.cn/gp/product/B0011F5SIC/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B0011F5SIC&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[深入浅出 HTML 与 CSS](https://www.amazon.cn/gp/product/B01LXL42O5/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B01LXL42O5&amp;linkCode=as2&amp;tag=vastwork-23)》
+*   《[ES6 标准入门（第三版）](https://www.amazon.cn/ES6%E6%A0%87%E5%87%86%E5%85%A5%E9%97%A8-%E9%98%AE%E4%B8%80%E5%B3%B0/dp/B0755547ZZ/ref=sr_1_3?s=books&ie=UTF8&qid=1510299626&sr=1-3&keywords=Ecmascript)》
+*   《[深入理解 ES6](https://www.amazon.cn/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3ES6-Nicholas-C-Zakas/dp/B071GW3JDP/ref=sr_1_1?s=books&ie=UTF8&qid=1510299626&sr=1-1&keywords=Ecmascript)》
 
 ## Java开发
 
@@ -123,11 +128,30 @@
 *   《[Java核心技术·卷1：基础知识（原书第9版）](https://www.amazon.cn/gp/product/B01M22BGUQ/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B01M22BGUQ&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[Java核心技术·卷2：高级特性（原书第9版）](https://www.amazon.cn/gp/product/B00IK7SM6O/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00IK7SM6O&amp;linkCode=as2&amp;tag=vastwork-23)》
 
-## .NET
+## .NET/.NET Core
 
-*   《[精通C#（第6版）](https://www.amazon.cn/gp/product/B00DVDDP0K/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00DVDDP0K&amp;linkCode=as2&amp;tag=vastwork-23)》
+*   《[C# 6.0 本质论](https://www.amazon.cn/C-6-0%E6%9C%AC%E8%B4%A8%E8%AE%BA-%E9%A9%AC%E5%85%8B%C2%B7%E7%B1%B3%E5%87%AF%E5%88%A9%E6%96%AF/dp/B01N7U95UK/ref=sr_1_1?s=books&ie=UTF8&qid=1510299751&sr=1-1&keywords=C%23+%E6%9C%AC%E8%B4%A8%E8%AE%BA)》
+*   《[果壳中的C#：C#5.0权威指南](https://www.amazon.cn/%E6%9E%9C%E5%A3%B3%E4%B8%AD%E7%9A%84C-C-5-0%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97-%E9%98%BF%E5%9D%9D%E5%93%88%E7%91%9E/dp/B00G51PUDA/ref=sr_1_1?s=books&ie=UTF8&qid=1510299796&sr=1-1&keywords=%E6%9E%9C%E5%A3%B3%E4%B8%AD%E7%9A%84C%23)》
+*   《你必须知道的.NET（第2版）》
 *   《[深入理解C#（第3版）](https://www.amazon.cn/gp/product/B00J94AG2A/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00J94AG2A&amp;linkCode=as2&amp;tag=vastwork-23)》
+*   《Effective C#: 50 Specific Ways to Improve Your C#, Third Edition》
+*   《More Effective C# (Includes Content Update Program): 50 Specific Ways to Improve Your C#, 2nd edition》
+*   《[Async in C# 5.0: Unleash the Power of Async](https://www.amazon.cn/Async-in-C-5-0-Unleash-the-Power-of-Async-Davies-Alex/dp/1449337163/ref=sr_1_1?s=books&ie=UTF8&qid=1510299899&sr=1-1&keywords=Async+in+C%23+5.0)》
+*   《[C#并发编程经典实例](https://www.amazon.cn/C-%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B%E7%BB%8F%E5%85%B8%E5%AE%9E%E4%BE%8B-%E5%85%8B%E5%88%A9%E9%87%8C/dp/B00QVLZEQ2/ref=sr_1_1?s=books&ie=UTF8&qid=1510299937&sr=1-1&keywords=C%23%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B%E7%BB%8F%E5%85%B8%E5%AE%9E%E4%BE%8B)》
+*   《[C#多线程编程实战(原书第2版)](https://www.amazon.cn/C-%E5%A4%9A%E7%BA%BF%E7%A8%8B%E7%BC%96%E7%A8%8B%E5%AE%9E%E6%88%98-%E6%98%93%E6%A0%BC%E6%81%A9%C2%B7%E9%98%BF%E6%A0%BC%E4%BD%9B%E6%B8%A9/dp/B06XHXV5FQ/ref=sr_1_1?s=books&ie=UTF8&qid=1510299974&sr=1-1&keywords=C%23%E5%A4%9A%E7%BA%BF%E7%A8%8B%E7%BC%96%E7%A8%8B%E5%AE%9E%E6%88%98)》
 *   《[CLR via C#（第4版）](https://www.amazon.cn/gp/product/B00P8VZ8T4/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00P8VZ8T4&amp;linkCode=as2&amp;tag=vastwork-23)》
+*   《.NET本质论 第1卷:公共语言运行库》
+*   《.NET探秘 : MSIL权威指南》
+*   《Pro .NET Performance》
+*   《Shared Source CLI Essentials》
+*   《.NET 高级调试》
+*   《Microsoft.NET 和 Windows 应用程序调试》
+*   《微软.NET 程序的加密与解密》
+*   《[.NET Development Using the Compiler API](https://www.amazon.cn/NET-Development-Using-the-Compiler-API-Bock-Jason/dp/1484221109/ref=sr_1_1?s=books&ie=UTF8&qid=1510300116&sr=1-1&keywords=.NET+Development+Using+the+Compiler+API)》
+*   《.NET设计规范 : 约定、惯用法与模式》
+*   《[编写高性能的.NET代码](https://www.amazon.cn/gp/product/B074JS9HWX/ref=pd_sim_14_9?ie=UTF8&psc=1&refRID=67XZ7GZVFZ3J57NQTJ8X)》
+*   《[Building Microservices with .NET Core](https://www.amazon.cn/Building-Microservices-with-NET-Core-Develop-skills-in-Reactive-Microservices-database-scaling-Azure-Microservices-and-more-Aroraa-Gaurav-Kumar/dp/B01MQ52RM3/ref=sr_1_10?s=books&ie=UTF8&qid=1510300439&sr=1-10&keywords=.net+core)》
+*   《[Microservices in .NET Core, with Examples in NancyFX](https://www.amazon.cn/Microservices-in-NET-Core-with-Examples-in-NancyFX-Horsdal-Christian/dp/1617293377/ref=sr_1_15?s=books&ie=UTF8&qid=1510300439&sr=1-15&keywords=.net+core)》
 
 ## Python
 
@@ -214,6 +238,10 @@
 *   《深入浅出SQL（中文版）》
 *   《[MySQL技术内幕 : InnoDB存储引擎（第2版）](https://www.amazon.cn/gp/product/B00ETOV48K/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00ETOV48K&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[深入浅出MySQL : 数据库开发、优化与管理维护](https://www.amazon.cn/gp/product/B00KR87J8G/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00KR87J8G&amp;linkCode=as2&amp;tag=vastwork-23)》
+*   《[收获,不止SQL优化:抓住SQL的本质](https://www.amazon.cn/%E6%94%B6%E8%8E%B7-%E4%B8%8D%E6%AD%A2SQL%E4%BC%98%E5%8C%96-%E6%8A%93%E4%BD%8FSQL%E7%9A%84%E6%9C%AC%E8%B4%A8-%E6%A2%81%E6%95%AC%E5%BD%AC/dp/B071S6ZYH8/ref=sr_1_1?s=books&ie=UTF8&qid=1510300270&sr=1-1&keywords=%E4%B8%8D%E6%AD%A2+sql)》
+*   《[SQL Server 性能优化与管理的艺术](https://www.amazon.cn/SQL-Server%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E4%B8%8E%E7%AE%A1%E7%90%86%E7%9A%84%E8%89%BA%E6%9C%AF-%E9%BB%84%E9%92%8A%E5%90%89/dp/B00NW2FVAM/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1510300294&sr=1-8)》
+*   《[SQL Server性能调优实战](https://www.amazon.cn/SQL-Server%E6%80%A7%E8%83%BD%E8%B0%83%E4%BC%98%E5%AE%9E%E6%88%98-%E9%99%88%E7%95%85%E4%BA%AE/dp/B0171JJEN6/ref=sr_1_11?s=books&ie=UTF8&qid=1510300294&sr=1-11&keywords=sql+server)》
+*   《[T-SQL性能调优秘笈:基于SQL Server 2012窗口函数](https://www.amazon.cn/T-SQL%E6%80%A7%E8%83%BD%E8%B0%83%E4%BC%98%E7%A7%98%E7%AC%88-%E5%9F%BA%E4%BA%8ESQL-Server-2012%E7%AA%97%E5%8F%A3%E5%87%BD%E6%95%B0-%E6%9C%AC-%E7%94%98/dp/B00M1CH5A8/ref=sr_1_14?s=books&ie=UTF8&qid=1510300294&sr=1-14&keywords=sql+server)》
 
 ## 测试
 
