@@ -262,6 +262,7 @@
 *   《[人件（原书第3版）](https://www.amazon.cn/gp/product/B00MO7R1SG/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00MO7R1SG&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[门后的秘密：卓越管理的故事](https://www.amazon.cn/gp/product/B00CBBKRQ8/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00CBBKRQ8&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[极客与团队：软件工程师的团队生存秘笈](https://www.amazon.cn/gp/product/B00BLZMG8W/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00BLZMG8W&amp;linkCode=as2&amp;tag=vastwork-23)》
+* 《[硝烟中的 Scrum 和 XP](https://amazon.cn/gp/product/B00EE5HBAO/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=vastwork-23&creative=3200&linkCode=as2&creativeASIN=B00EE5HBAO&linkId=d904f054b7a79a701065f544a449512b)》 (感谢[@geekgao](https://github.com/geekgao) 的推荐。
 
 ## 求职面试
 
