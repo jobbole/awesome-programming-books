@@ -236,6 +236,8 @@
 
 ## 数据库
 
+* 《[数据库系统概念](https://amazon.cn/gp/product/B007KYSEZC/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=vastwork-23&creative=3200&linkCode=as2&creativeASIN=B007KYSEZC&linkId=32d1830aaeeda5b1ccaf242af94e73ad)》 感谢[@noisnemid](https://github.com/noisnemid) [推荐](https://github.com/jobbole/awesome-programming-books/issues/16)
+* 《[数据库系统实现](https://amazon.cn/gp/product/B003NX8D0A/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=vastwork-23&creative=3200&linkCode=as2&creativeASIN=B003NX8D0A&linkId=3d1723a92384a5febb43c2400b31f1fe)》
 *   《[SQL应用重构](https://www.amazon.cn/gp/product/B00H6X6M1A/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00H6X6M1A&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[SQL Cookbook](https://www.amazon.cn/gp/product/0596009763/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=0596009763&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[高性能MySQL （第3版）](https://www.amazon.cn/gp/product/B00C1W58DE/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00C1W58DE&amp;linkCode=as2&amp;tag=vastwork-23)》
