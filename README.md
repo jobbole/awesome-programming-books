@@ -45,6 +45,7 @@
 *   《程序设计语言：实践之路（第3版）》
 *   《[计算的本质：深入剖析程序和计算机](https://www.amazon.cn/gp/product/B00PG0MM3C/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00PG0MM3C&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[设计模式 : 可复用面向对象软件的基础](https://www.amazon.cn/gp/product/B001130JN8/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B001130JN8&amp;linkCode=as2&amp;tag=vastwork-23)》
+* 《[Head First 设计模式（中文版）]》(https://amazon.cn/gp/product/B0011FBU34/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=vastwork-23&creative=3200&linkCode=as2&creativeASIN=B0011FBU34&linkId=cd5d20e99ff289529d6dbe2cd223f2b6) （感谢@Great-Li-Xin [推荐](https://github.com/jobbole/awesome-programming-books/issues/27) ）
 
 ## 算法与数据结构
 
@@ -75,6 +76,7 @@
 *   《[编程人生 : 15位软件先驱访谈录](https://www.amazon.cn/gp/product/B00QA7GA2Y/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00QA7GA2Y&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[奇思妙想 : 15位计算机天才及其重大发现](https://www.amazon.cn/gp/product/B007ED88CI/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B007ED88CI&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[图灵和ACM图灵奖](https://www.amazon.cn/gp/product/B008G80O9K/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B008G80O9K&amp;linkCode=as2&amp;tag=vastwork-23)》
+
 
 ## 架构/性能
 
