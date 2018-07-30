@@ -13,7 +13,7 @@
 *   《[TCP/IP详解 卷1：协议](https://www.amazon.cn/gp/product/B00116OTVS/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00116OTVS&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[Linux系统编程（第2版）](https://www.amazon.cn/gp/product/B00JUM2ML4/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00JUM2ML4&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[Linux内核设计与实现（第3版）](https://www.amazon.cn/gp/product/B004X3Z3D4/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B004X3Z3D4&amp;linkCode=as2&amp;tag=vastwork-23)》
-*   《[深入理解计算机系统（原书第2版）](https://www.amazon.cn/gp/product/B004BJ18KM/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B004BJ18KM&amp;linkCode=as2&amp;tag=vastwork-23)》
+*   《[深入理解计算机系统（原书第3版）](https://amazon.cn/gp/product/B01N03IQK4/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=vastwork-23&creative=3200&linkCode=as2&creativeASIN=B01N03IQK4&linkId=b87deba0291c05df8d8ea0d64fefb0f0)》
 *   《[计算机程序的构造和解释（原书第2版）](https://www.amazon.cn/gp/product/B0011AP7RY/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B0011AP7RY&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[编码：隐匿在计算机软硬件背后的语言](https://www.amazon.cn/gp/product/B009RSXIB4/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B009RSXIB4&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[性能之颠：洞悉系统、企业与云计算](https://www.amazon.cn/gp/product/B0140I5WPK/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B0140I5WPK&amp;linkCode=as2&amp;tag=vastwork-23)》
