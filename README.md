@@ -92,6 +92,15 @@
 *   《[恰如其分的软件架构：风险驱动的设计方法](https://www.amazon.cn/gp/product/B00EP6TGAU/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00EP6TGAU&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[软件系统架构：使用视点和视角与利益相关者合作（第2版）](https://www.amazon.cn/gp/product/B00CMMUXC4/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00CMMUXC4&amp;linkCode=as2&amp;tag=vastwork-23)》
 
+## Linux / Unix
+
+*   《[Linux/Unix 系统编程手册](https://amazon.cn/gp/product/B00HLA8TYG/ref=as_li_qf_asin_il_tl?ie=UTF8&amp;tag=vastwork-23&amp;creative=3200&amp;linkCode=as2&amp;creativeASIN=B00HLA8TYG&amp;linkId=2d246600ae289155a09ec47545d584f6)》（感谢[@geekgao](https://github.com/geekgao) 的推荐）
+*   《[Unix 环境高级编程(第3版)](https://amazon.cn/gp/product/B00KMR129E/ref=as_li_qf_asin_il_tl?ie=UTF8&amp;tag=vastwork-23&amp;creative=3200&amp;linkCode=as2&amp;creativeASIN=B00KMR129E&amp;linkId=9655c290f9d97c4d7e80093839cc5944)》
+*   《Unix/Linux 编程实践教程》
+*   《[鸟哥的 Linux 私房菜（基础学习篇）](https://amazon.cn/gp/product/B003TJNO98/ref=as_li_qf_asin_il_tl?ie=UTF8&amp;tag=vastwork-23&amp;creative=3200&amp;linkCode=as2&amp;creativeASIN=B003TJNO98&amp;linkId=dda37757175b431dedc5e20212021f21)》和《[鸟哥的 Linux 私房菜（服务器架设篇）](https://amazon.cn/gp/product/B008AEI8A2/ref=as_li_qf_asin_il_tl?ie=UTF8&amp;tag=vastwork-23&amp;creative=3200&amp;linkCode=as2&amp;creativeASIN=B008AEI8A2&amp;linkId=35f878fbebb2f66ae8c4fc3e76914ff6)》
+*   《[Linux 命令行与 shell 脚本编程大全（第3版）](https://amazon.cn/gp/product/B0719GT5W1/ref=as_li_qf_asin_il_tl?ie=UTF8&amp;tag=vastwork-23&amp;creative=3200&amp;linkCode=as2&amp;creativeASIN=B0719GT5W1&amp;linkId=aeef8bc8651bd9e5f363527b86d1229a)》
+*   《[只是为了好玩 : Linux 之父林纳斯自传](https://amazon.cn/gp/product/B00MB51SAI/ref=as_li_qf_asin_il_tl?ie=UTF8&amp;tag=vastwork-23&amp;creative=3200&amp;linkCode=as2&amp;creativeASIN=B00MB51SAI&amp;linkId=b22fe2eaac93168eae25d9bab11fe30c)》
+
 ## Web前端
 
 *   《[高性能 JavaScript](https://www.amazon.cn/gp/product/B013SGB2AO/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B013SGB2AO&amp;linkCode=as2&amp;tag=vastwork-23)》
