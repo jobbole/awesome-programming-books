@@ -45,7 +45,7 @@
 *   《程序设计语言：实践之路（第3版）》
 *   《[计算的本质：深入剖析程序和计算机](https://www.amazon.cn/gp/product/B00PG0MM3C/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00PG0MM3C&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[设计模式 : 可复用面向对象软件的基础](https://www.amazon.cn/gp/product/B001130JN8/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B001130JN8&amp;linkCode=as2&amp;tag=vastwork-23)》
-* 《[Head First 设计模式（中文版）](https://amazon.cn/gp/product/B0011FBU34/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=vastwork-23&creative=3200&linkCode=as2&creativeASIN=B0011FBU34&linkId=cd5d20e99ff289529d6dbe2cd223f2b6) 》（感谢@Great-Li-Xin [推荐](https://github.com/jobbole/awesome-programming-books/issues/27) ）
+* 《[Head First 设计模式（中文版）](https://amazon.cn/gp/product/B0011FBU34/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=vastwork-23&creative=3200&linkCode=as2&creativeASIN=B0011FBU34&linkId=cd5d20e99ff289529d6dbe2cd223f2b6) 》（感谢[@Great-Li-Xin](https://github.com/Great-Li-Xin) [推荐](https://github.com/jobbole/awesome-programming-books/issues/27) ）
 
 ## 算法与数据结构
 
